@@ -1,0 +1,17 @@
+.center {
+  max-width: 500px;
+  margin: 0 auto;
+}
+blockquote {
+  border-left: 0;
+}
+blockquote footer {
+  margin-top: 10px;
+  font-style: italic;
+}
+figure .img-responsive {
+  margin: 0 auto;
+}
+.container {
+  margin-top: 50px;
+}
